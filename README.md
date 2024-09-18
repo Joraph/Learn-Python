@@ -1,3 +1,3 @@
 # Learn-Python
 
-my first reasonable repostory
+print("Hello World")
